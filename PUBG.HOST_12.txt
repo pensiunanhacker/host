@@ -1,0 +1,22 @@
+
+127.0.0.1 hkconfig.gcloud.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 hkconfig.gcloud.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1       localhost
+::1             ip6-localhost
+127.0.0.1 down.qq.com 
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com 
+127.0.0.1 dlied1.tcdn.qq.com 
+127.0.0.1 down.qq.com 
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.tcdn.qq.com 
+127.0.0.1       localhost
+::1             ip6-localhost
+
