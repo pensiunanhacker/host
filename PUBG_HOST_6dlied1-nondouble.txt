@@ -1,0 +1,11 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+
+127.0.0.1 down.qq.com 
+127.0.0.1 dlied1.qq.com 
+127.0.0.1 dlied2.qq.com 
+127.0.0.1 dlied3.qq.com 
+127.0.0.1 dlied4.qq.com 
+127.0.0.1 dlied5.qq.com 
+127.0.0.1 dlied6.qq.com 
+127.0.0.1 down.qq.com
