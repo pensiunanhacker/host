@@ -1,0 +1,41 @@
+#PensiunanHacker
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# Start
+
+127.0.0.1  oth.update.mdt.qq.com
+127.0.0.1  107.155.58.98
+127.0.0.1  203.205.146.122
+127.0.0.1 users.qq.com
+127.0.0.1 v.qq.com
+127.0.0.1 v.qq.com
+127.0.0.1 weixin.qq.com
+127.0.0.1 api.dingd.cn
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied2.qq.com
+127.0.0.1 dlied3.qq.com
+127.0.0.1 dlied4.qq.com
+127.0.0.1 dlied5.qq.com
+127.0.0.1 dlied6.qq.com
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 dlied1.tc.qq.com
+127.0.0.1 dlied2.tcdn.qq.com
+127.0.0.1 dlied2.tc.qq.com
+127.0.0.1 dlied3.tcdn.qq.com
+127.0.0.1 dlied3.tc.qq.com
+127.0.0.1 dlied4.tcdn.qq.com
+127.0.0.1 dlied4.tc.qq.com
+127.0.0.1 dlied5.tcdn.qq.com
+127.0.0.1 dlied5.tc.qq.com
+127.0.0.1 dlied6.tcdn.qq.com
+127.0.0.1 dlied6.tc.qq.com
+127.0.0.1 appsupport.qq.com
+127.0.0.1 commdata.v.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 pingma.qq.com
