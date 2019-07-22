@@ -1,0 +1,151 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+127.0.0.1 dlied1.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 down.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 tpns.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 app.adjust.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 c.tdm.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  vmp.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  pingma.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 www.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 49.51.42.152
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 szmg.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 dlied1.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 down.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 tpns.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 app.adjust.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 c.tdm.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  vmp.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  pingma.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 www.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 49.51.42.152
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 szmg.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 dlied1.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 down.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 tpns.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 app.adjust.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 c.tdm.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  vmp.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  pingma.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 www.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 49.51.42.152
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 szmg.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 dlied1.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 down.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 tpns.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 app.adjust.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 c.tdm.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  vmp.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1  pingma.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 www.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 49.51.42.152
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
+127.0.0.1 szmg.qq.com
+127.0.0.1 localhost 127.0.0.1 localhost.localdomain 127.0.0.1 local 255.255.255.255 broadcasthost ::1 localhost ::1 ip6-localhost ::1 ip6-loopback
