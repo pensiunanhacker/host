@@ -1,0 +1,592 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+10.0.0.1 nawzryhwatm.broker.tplay.qq.com
+10.0.0.1 na.pubgm.broker.tplay.qq.com
+10.0.0.1 down.qq.com
+10.0.0.1 clientreport.gfm.qq.com
+10.0.0.1 dlied1.qq.com
+10.0.0.1 dlied2.qq.com
+10.0.0.1 dlied3.qq.com
+10.0.0.1 dlied4.qq.com
+10.0.0.1 dlied5.qq.com
+10.0.0.1 dlied6.qq.com
+10.0.0.1 dlied1.tcdn.qq.com
+10.0.0.1 dlied2.tcdn.qq.com
+10.0.0.1 dlied3.tcdn.qq.com
+10.0.0.1 dlied4.tcdn.qq.com
+10.0.0.1 dlied5.tcdn.qq.com
+10.0.0.1 dlied6.tcdn.qq.com
+10.0.0.1 oth.eve.mdt.qq.com
+10.0.0.1 hkconfig.gcloud.qq.com
+10.0.0.1 cloud.gsdk.proximabeta
+10.0.0.1 android.bugly.qq.com
+10.0.0.1 naping.igamecj.com
+10.0.0.1 pay.igamecj.com
+10.0.0.1 cgi.connect.qq.com
+10.0.0.1 ossweb-img.qq.com
+10.0.0.1 astat.bugly.qq.com
+10.0.0.1 pg.qq.com
+10.0.0.1 download.wegame.qq.com
+10.0.0.1 wegame.gtimg.com
+10.0.0.1 codol.qq.com
+10.0.0.1 qos.hk.gcloudcs.com
+10.0.0.1 tencentgames.helpshift.com
+10.0.0.1 cs.mbgame.gamesafe.qq.com
+10.0.0.1 cdn.wetest.qq.com
+10.0.0.1 pingma.qq.com
+10.0.0.1 log.tbs.qq.com
+10.0.0.1 logs.game.qq.com
+10.0.0.1 vmp.qq.com
+10.0.0.1 commdata.v.qq.com
+10.0.0.1 pingjs.qq.com
+10.0.0.1 qos.hk.gcloudcs.com
+10.0.0.1 strategy.beacon.qq.com
+10.0.0.1 reports.crashlytics.com
+10.0.0.1 intl.mtp.tencent.com
+10.0.0.1 mtp.tencent.com
+165.157.0.8 android.bugly.qq.com
+165.157.0.8 data.mistat.intl.xiaomi.com
+165.157.0.8 pingma.qq.com
+165.157.0.8 vmp.qq.com
+165.157.0.8 dlied1.qq.com
+165.157.0.8 down.qq.com
+165.157.0.8 cloud.gsdk.proximabeta.com
+165.157.0.8 oth.eve.mdt.qq.com
+165.157.0.8 cs.mbgame.gamesafe.qq.com
+165.157.0.8 file-igamecj.akamaized.net
+165.157.0.8 file-igamecj.com
+165.157.0.8 dlied1.qq.com
+165.157.0.8 pingma.qq.com:80
+165.157.0.8 111.161.64.40
+165.157.0.8 113.96.156.150
+165.157.0.8 119.29.42.201
+165.157.0.8 180.163.15.193
+165.157.0.8 180.153.6.49
+165.157.0.8 58.60.9.47
+165.157.0.8 203.205.151.224
+165.157.0.8 111.161.64.40
+165.157.0.8 113.96.156.150
+165.157.0.8 119.29.42.201
+165.157.0.8 180.163.15.193
+165.157.0.8 180.153.6.49
+165.157.0.8 58.60.9.47
+165.157.0.8 203.205.151.224
+165.157.0.8 android.bugly.qq.com
+165.157.0.8 data.mistat.intl.xiaomi.com
+165.157.0.8 pingma.qq.com
+165.157.0.8 vmp.qq.com
+165.157.0.8 dlied1.qq.com
+165.157.0.8 down.qq.com
+165.157.0.8 cloud.gsdk.proximabeta.com
+165.157.0.8 oth.eve.mdt.qq.com
+165.157.0.8 cs.mbgame.gamesafe.qq.com
+165.157.0.8 file-igamecj.akamaized.net
+165.157.0.8 file-igamecj.com
+165.157.0.8 dlied1.qq.com
+165.157.0.8 pingma.qq.com:80
+165.157.0.8 111.161.64.40
+165.157.0.8 113.96.156.150
+165.157.0.8 119.29.42.201
+165.157.0.8 180.163.15.193
+165.157.0.8 180.153.6.49
+165.157.0.8 58.60.9.47
+165.157.0.8 203.205.151.224
+165.157.0.8 111.161.64.40
+165.157.0.8 113.96.156.150
+165.157.0.8 119.29.42.201
+165.157.0.8 180.163.15.193
+165.157.0.8 180.153.6.49
+165.157.0.8 58.60.9.47
+165.157.0.8 203.205.151.224
+165.157.0.8 down.qq.com
+165.157.0.8 vmp.qq.com
+165.157.0.8 hkconfig.gcloud.qq.com
+165.157.0.8 android.bugly.qq.com
+165.157.0.8 alog.umeng.com
+165.157.0.8 oth.str.mdt.qq.com
+165.157.0.8 dr.app.xxzhushou.cn
+165.157.0.8 124.156.62.115
+165.157.0.8 124.156.12.205
+165.157.0.8 124.156.12.171
+165.157.0.8 tpns.qq.com
+165.157.0.8 oth.update.mdt.qq.com
+125.658.786.9 mx2.qq.com
+125.658.786.9 ns2.qq.com
+125.658.786.9 ns3.qq.com
+125.658.786.9 mx1.qq.com
+125.658.786.9 spf.mail.qq.com 
+125.658.786.9 ns4.qq.com
+125.658.786.9 mx3.qq.com
+125.658.786.9 ns1.qq.com
+127.1.1.1 qos.hk.gcloudcs.com
+127.1.1.1 graph.facebook.com
+127.1.1.1 in.voice.gcloudcs.com
+125.658.786.9 oth.eve.mdt.qq.com
+127.1.1.1 hkspeed.igamecj.com
+127.1.1.1 124.156.12.141
+125.658.786.9 c.tdm.qq.com
+127.1.1.1 cloud.gsdk.proximabeta.com
+127.1.1.1 124.156.63.111
+127.1.1.1 pingma.qq.com
+127.1.1.1 49.51.42.152
+127.1.1.1 api.xxzhushou.cn
+1.1.0.0 download.2.1375135419.igame.gcloudcs.com
+127.1.1.1 file.igamecj.com.cdn.dnsv1.com
+127.1.1.1 file.igamecj.com.edgekey.net
+1.1.0.0 puffer.4.1375135419.igame.gcloudcs.com
+172.168.1.1 dlied1.qq.com
+172.168.1.1 dlied1.tcdn.qq.com
+172.168.1.1 dlied1.tc.qq.com
+172.168.1.1 dlied2.tcdn.qq.com
+172.168.1.1 dlied2.tc.qq.com
+172.168.1.1 dlied2.qq.com
+172.168.1.1 dlied3.tcdn.qq.com
+172.168.1.1 dlied3.tc.qq.com
+172.168.1.1 dlied3.qq.com
+172.168.1.1 dlied4.qq.com
+172.168.1.1 dlied4.tcdn.qq.com
+172.168.1.1 dlied4.tc.qq.com
+172.168.1.1 dlied5.qq.com
+172.168.1.1 dlied5.tcdn.qq.com
+172.168.1.1 dlied5.tc.qq.com
+172.168.1.1 tpns.qq.com
+172.168.1.1 cgi.connect.qq.com
+172.168.1.1 oth.eve.mdt.qq.com
+172.168.1.1 appsupport.qq.com
+172.168.1.1 oth.str.mdt.qq.com
+172.168.1.1 android.bugly.qq.com
+172.168.1.1 mb.yidianzixun.com
+172.168.1.1 qos.game.qq.com
+172.168.1.3 oth.eve.mdt.qq.com
+172.168.1.4 oth.eve.mdt.qq.cpm
+172.168.1.5 dlied1.qq.com
+172.168.1.7 dlied1.qq.com
+172.168.1.1 182.254.116.117
+172.168.1.2 182.254.116.117
+172.168.1.3 182.254.116.117
+172.168.1.3 android.bugly.qq.com
+172.168.1.4 android.bugly.qq.com
+172.168.1.2 down.qq.cn
+172.168.1.6 down.qq.cn
+172.168.1.7 vmp.qq.com
+172.168.1.9 vmp.qq.com
+172.168.1.4 cgi.connect.qq.com
+172.168.1.8 cgi.connect.qq.com
+172.168.1.7 android.bugly.qq.com
+172.168.2.2 dlied1.qq.com
+172.168.3.3 dlied1.qq.com
+172.168.1.4 oth.eve.mdt.qq.com
+165.157.0.8 dlied1.qq.com
+165.157.0.8 dlied2.qq.com
+165.157.0.8 dlied3.qq.com
+165.157.0.8 dlied4.qq.com
+165.157.0.8 dlied5.qq.com
+165.157.0.8 dlied6.qq.com
+165.157.0.8 dlied1.tcdn.qq.com
+165.157.0.8 dlied1.tc.qq.com
+165.157.0.8 dlied2.tcdn.qq.com
+165.157.0.8 dlied2.tc.qq.com
+165.157.0.8 dlied3.tcdn.qq.com
+165.157.0.8 dlied3.tc.qq.com
+165.157.0.8 dlied4.tcdn.qq.com
+165.157.0.8 dlied4.tc.qq.com
+165.157.0.8 dlied5.tcdn.qq.com
+165.157.0.8 dlied5.tc.qq.com
+165.157.0.8 dlied6.tcdn.qq.com
+165.157.0.8 dlied6.tc.qq.com
+165.157.0.8 appsupport.qq.com
+165.157.0.8 commdata.v.qq.com
+165.157.0.8 oth.eve.mdt.qq.com
+165.157.0.8 android.bugly.qq.com
+165.157.0.8 pingma.qq.com
+42.0.13.37 clientreport.gfm.qq.com
+125.658.786.9 dlied1.qq.com
+125.658.786.9 www.dingd.cn
+125.658.786.9 api.dingd.cn
+125.658.786.9 dlied2.qq.com
+125.658.786.9 dlied3.qq.com
+125.658.786.9 dlied4.qq.com
+125.658.786.9 dlied5.qq.com
+125.658.786.9 dlied6.qq.com
+125.658.786.9 dlied1.tcdn.qq.com
+125.658.786.9 dlied1.tc.qq.com
+125.658.786.9 dlied2.tcdn.qq.com
+125.658.786.9 dlied2.tc.qq.com
+125.658.786.9 dlied3.tcdn.qq.com
+125.658.786.9 dlied3.tc.qq.com
+125.658.786.9 dlied4.tcdn.qq.com
+125.658.786.9 dlied4.tc.qq.com
+125.658.786.9 dlied5.tcdn.qq.com
+125.658.786.9 dlied5.tc.qq.com
+125.658.786.9 dlied6.tcdn.qq.com
+125.658.786.9 dlied6.tc.qq.com
+125.658.786.9 setting.rayjump.com
+125.658.786.9 cf.3g.qq.com
+125.658.786.9 realname.game.qq.com
+125.658.786.9 a.ssl.msdk.qq.com
+125.658.786.9 omgmta1.qq.com
+125.658.786.9 omgmta.qq.com
+125.658.786.9 mtt.eve.mdt.qq.com
+125.658.786.9 ig-us-sdkapi.igamecj.com
+125.658.786.9 ig-us-notice.igamecj.com
+125.658.786.9 pay.igamecj.com
+125.658.786.9 hkspeed.igamecj.com
+125.658.786.9 naping.igamecj.com
+125.658.786.9 krping.igamecj.com
+125.658.786.9 hkping.igamecj.com
+125.658.786.9 saping.igamecj.com
+125.658.786.9 euping.igamecj.com
+125.658.786.9 file-igamecj.akamaized.net
+125.658.786.9 file.igamecj.com
+125.658.786.9 lobby.igamecj.com
+125.658.786.9 filecdn.igamecj.com
+125.658.786.9 apm.wetest.qq.com
+125.658.786.9 cdn.wetest.qq.com
+125.658.786.9 krping.igamecj.com
+125.658.786.9 meping.igamecj.com
+125.658.786.9 saping.igamecj.com
+125.658.786.9 hkping.igamecj.com
+125.658.786.9 euping.igamecj.com
+125.658.786.9 naping.igamecj.com
+125.658.786.9 spf.mail.tencent.com	
+125.658.786.9 i.tencent.com
+125.658.786.9 php.tencent.com
+125.658.786.9 h.tencent.com
+125.658.786.9 mobile.tencent.com
+125.658.786.9 ai.tencent.com
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+216.58.221.238 216.58.221.238
+32.136.00.96 e6156.dscf.akamaiedge.net
+32.136.00.96 23.192.41.167
+32.136.00.96 e6156.dscf.akamaiedge.net
+32.136.00.96 2600:1400:d:5a9:0:0:0:180c
+32.136.00.96 www.qq.com
+32.136.00.96 news.qq.com.edgekey.net
+32.136.00.96 ssd.tcdn.qq.com
+32.136.00.96 www.tencent.com
+32.136.00.96 upfile.wj.qq.com.cloud.tc.qq.com
+165.167.0.0 203.205.158.54
+165.167.0.0 203.205.158.35
+165.167.0.0 203.205.158.34
+165.167.0.0 203.205.158.56
+165.167.0.0 203.205.158.53
+165.167.0.0 203.205.158.71
+165.167.0.0 203.205.158.55
+165.167.0.0 a1845.dscb.akamai.net
+165.167.0.0 a1845.dscb.akamai.net
+165.167.0.0 www.pubgmobile.com
+165.167.0.0 www.pubgmobile.com.edgesuite.net
+145.123.3030.141 2600:141b:13:0:0:0:17d7:8253
+145.123.3030.141 2600:141b:13:0:0:0:17d7:8261
+145.123.3030.141 aspmx.l.google.com
+145.123.3030.141 alt1.aspmx.l.google.com
+145.123.3030.141 alt2.aspmx.l.google.com
+145.123.3030.141 aspmx2.googlemail.com
+145.123.3030.141 aspmx3.googlemail.com
+145.123.3030.141 aspmx4.googlemail.com
+145.123.3030.141 aspmx5.googlemail.com
+145.123.3030.141 ns-1226.awsdns-25.org
+125.000.125.000 ns-1609.awsdns-09.co.uk
+125.000.125.000 ns-279.awsdns-34.com
+125.000.125.000 ns-968.awsdns-57.net
+125.000.125.000 ns-968.awsdns-57.net
+125.000.125.000 spf.google.com
+125.000.125.000 include:smtp1.uservoice.com 
+125.000.125.000 www.gclouds.com
+125.000.125.000 103.224.182.238
+125.000.125.000 park-mx.above.com
+125.000.125.000 ns2.above.com
+125.000.125.000 ns1.above.com
+125.658.786.9 www.helpshift.com
+125.658.786.9 52.9.216.252
+125.658.786.9 52.9.214.90
+125.658.786.9 2600:1f1c:361:616:57ae:2f20:894c:5955
+125.658.786.9 2600:1f1c:361:600:ad66:61b:a184:fc22
+125.658.786.9 ns1.qq.com
+125.658.786.9 ns2.qq.com
+125.658.786.9 ns3.qq.com
+125.658.786.9 ns4.qq.com
+125.658.786.9 ns-os1.qq.com
+125.658.786.9 ns-cmn1.qq.com
+125.658.786.9 ns-tel1.qq.com
+125.658.786.9 ns-cnc1.qq.com
+32.136.00.96 ns3.dnsv5.com
+32.136.00.96 ns4.dnsv5.com
+32.136.00.96 a18-64.akam.net
+32.136.00.96 a11-64.akam.net
+32.136.00.96 a7-64.akam.net
+0.0.0.0 a3-64.akam.net
+0.0.0.0 a6-64.akam.net
+0.0.0.0 a13-64.akam.net
+0.0.0.0 a9-64.akam.net
+0.0.0.0 a28-64.akam.net
+0.0.0.0 a20-64.akam.net
+0.0.0.0 a5-64.akam.net
+0.0.0.0 a12-64.akam.net
+0.0.0.0 a2-64.akam.net
+127.0.0.1 a1-64.akam.net
+127.0.0.1 ns2.above.com
+127.0.0.1 ns1.above.com
+127.0.0.1 hostmaster.trellian.com
+127.0.0.1 park-mx.above.com
+127.0.0.1 103.224.182.238
+127.0.0.1 ns-616.awsdns-13.net
+127.0.0.1 ns-1972.awsdns-54.co.uk
+127.0.0.1 ns-1972.awsdns-24.org
+127.0.0.1 ns-376.awsdns-47.com
+127.0.0.1 52.9.216.252
+127.0.0.1 54.241.214.90
+127.0.0.1 2600:1f1c:361:616:57ae:2f20:894c:5955
+127.0.0.1 2600:1f1c:361:600:ad66:61b:a184:fc22
+10.0.0.1 ns-1226.awsdns-25.org
+10.0.0.1 ns-1609.awsdns-09.co.uk
+10.0.0.1 ns-279.awsdns-34.com
+10.0.0.1 ns-968.awsdns-57.net
+10.0.0.1 smtp1.uservoice.com
+10.0.0.1 spf.google.com
+10.0.0.1 aspmx.l.google.com
+10.0.0.1 alt1.aspmx.l.google.com
+10.0.0.1 alt2.aspmx.l.google.com
+10.0.0.1 aspmx2.googlemail.com
+10.0.0.1 aspmx3.googlemail.com
+10.0.0.1 aspmx4.googlemail.com
+10.0.0.1 aspmx5.googlemail.com
+10.0.0.1 23.21.101.94
+10.0.0.1 23.21.110.21
+10.0.0.1 23.21.87.135
+124.0.0.1 184.26.20.103
+124.0.0.1 203.205.138.71
+124.0.0.1 203.205.158.35
+124.0.0.1 203.205.158.53
+124.0.0.1 203.205.158.54
+124.0.0.1 203.205.158.55
+124.0.0.1 203.205.158.56
+124.0.0.1 96.17.72.24
+124.0.0.1 96.17.72.56
+124.0.0.1 52.9.216.252
+124.0.0.1 54.241.214.90
+124.0.0.1 23.21.87.135
+124.0.0.1 23.21.101.94
+124.0.0.1 23.21.110.21
+124.0.0.1 103.224.182.238
+124.0.0.1 104.98.207.59
+124.0.0.1 184.24.155.184
+124.0.0.1 23.218.119.147
+124.0.0.1 23.73.165.186
+124.0.0.1 www.pubgmobile.com.edgesuite.net
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 idc.receiver.tdm.qq.com
+127.0.0.1 download.2.1375135419.igame.gcloudcs.com
+127.0.0.1 download.2.1375135419.igame.gcloudcs.com
+127.0.0.1 download.2.1375135419.igame.gcloudcs.com
+127.0.0.1 file-igamecj.akamaized.net
+127.0.0.1 file.igamecj.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 ig-us-notice.igamecj.com
+127.0.0.1 hkconfig.gcloud.qq.com
+127.0.0.1 firebasestorage.googleapis.com
+127.0.0.1 cdn.wetest.qq.com
+0.1.0.1 android.bugly.qq.com
+0.1.0.1 oth.str.mdt.qq.com
+0.0.0.0 oth.update.mdt.qq.com
+127.0.0.1 idc.dir.tdm.qq.com
+127.0.0.1 gameguardian.net
+128.0.0.1 23.198.106.186
+128.0.0.1 203.205.158.35
+128.0.0.1 23.59.190.8
+128.0.0.1 ns-tel1.qq.com
+127.0.0.1 104.101.236.20
+127.0.0.1 2a02:26f0:d8:4b3::180c
+127.0.0.1 203.205.158.55
+127.0.0.1 203.205.158.56
+127.0.0.1 203.205.158.35
+127.0.0.1 203.205.158.54
+127.0.0.1 203.205.158.53
+128.0.0.1 103.224.182.238
+128.0.0.1 ns2.above.com
+128.0.0.1 103.224.182.6
+128.0.0.1 ns1.above.com
+128.0.0.1 103.224.212.5
+128.0.0.1 54.241.214.90
+10.0.0.1 52.9.216.252
+10.0.0.1 2600:1f1c:361:616:57ae:2f20:894c:5955
+10.0.0.1 2600:1f1c:361:600:ad66:61b:a184:fc22
+10.0.0.1 54.197.255.251
+10.0.0.1 54.225.163.221
+10.0.0.1 50.19.250.27
+10.0.0.1 120.27.34.81
+10.0.0.1 149.129.215.101
+10.0.0.1 47.254.129.118
+10.0.0.1 119.28.68.137 ec2-54-197-255-251.compute-1.amazonaws.com
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+0.0.0.0 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+0.0.0.0 api.netsnake.com
+0.0.0.0 api.phenixos.com
+0.0.0.0 apse.s.ludashi.com
+0.0.0.0 apse-sstart.ludashi.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 setting.rayjump.com
+0.0.0.0 app.adjust.com
+0.0.0.0 adj.st
+0.0.0.0 2fapp.adjust.com
+0.0.0.0 pp.adjust.com
+0.0.0.0 u002fwww.adjust.com
+0.0.0.0 aapp.adjust.com
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 d.tdm.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 dlied1.tc.qq.com
+0.0.0.0 dlied1.tcdn.qq.com
+0.0.0.0 down.qq.com
+0.0.0.0 dr.game.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 tpns.qq.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 logs.game.qq.com
+0.0.0.0 msdk.qq.com
+0.0.0.0 msdktest.qq.com
+0.0.0.0 mta.qq.com
+0.0.0.0 mtp.qq.com
+0.0.0.0 down.mtp.qq.com
+0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 android.rqd.qq.com
+0.0.0.0 apm.wetest.qq.com
+0.0.0.0 appsupport.qq.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 bugly.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 commdata.v.qq.com
+0.0.0.0 game.qq.com
+0.0.0.0 hk.api.unipay.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 idc.dir.tdm.qq.com
+0.0.0.0 idc.receiver.tdm.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 ieventlog.beacon.qq.com
+0.0.0.0 intldlgs.qq.com.tegsea.tc.qq.com
+0.0.0.0 m.guanjia.qq.com
+0.0.0.0 md.qq.com
+0.0.0.0 mtrace.qq.com
+0.0.0.0 ns1.qq.com
+0.0.0.0 ns2.qq.com
+0.0.0.0 ns3.qq.com
+0.0.0.0 ns4.qq.com
+0.0.0.0 overseas-img.qq.com
+0.0.0.0 report.huatuo.qq.com
+0.0.0.0 rz.tcp.qq.com
+0.0.0.0 ssd.tcdn.qq.com
+0.0.0.0 szmg.qq.com
+0.0.0.0 tcloudd1.qq.com
+0.0.0.0 test.mtrace.qq.com
+0.0.0.0 x2.tcdn.qq.com
+0.0.0.0 xjpconfig.gcloud.qq.com
+0.0.0.0 eu.pandora.qq.com
+0.0.0.0 hk.pandora.qq.com
+0.0.0.0 na.pandora.qq.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 intlticket.cloud.tencent.com
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 file-ticket.tencent.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 mrms.igamecj.com
+0.0.0.0 pwk-match.igamecj.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####YT:pensiunanhacker####
