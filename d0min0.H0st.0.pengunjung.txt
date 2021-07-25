@@ -1,0 +1,30 @@
+127.0.0.1 i.neptunegame.com
+127.0.0.1 i.neptunegame.com/data/
+127.0.0.1 update.neptunegame.com/update
+127.0.0.1 i.neptunegame.com/infull/infullRequest.do
+127.0.0.1 play.google.com/store/apps/details?id=com.neptune.domino
+127.0.0.1 static-dominotest.pook.com.cn
+127.0.0.1 update.neptunegame.com/update/2/newlobby/files.dat?v=9999999999999999
+127.0.0.1 localhost
+::1        ip6-localhost
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+0.0.0.0   localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+[LOCAL_DATA_INFO]
+last_login_type = 9999999999999999
+HTTP/1.0 200 OK
+Server: BKWS
+Date: Sun, 02 Jul 2021 02:55:55 GMT
+Content-Type: application/octet-stream
+Content-Length: 9999999999999999
+ETag: "60f678a1-709"
+Access-Control-Allow-Origin: *
+Accept-Ranges: bytes
+Via: 1.1 google, 1.1 google
+Cache-Control: max-age=15552000,public
+Age: 77
+Connection: Keep-Alive
